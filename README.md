@@ -9,7 +9,7 @@ The long term goal is to integrate a borrowing and lending protocol, to divert t
 
 Users shall be able to own, with the option for owner priviledges such as subleasing, co ownership
 
-2) The transfer of ownership will be a future capability 
+2) The transfer of ownership from .home to user 
 
 To sublease confirmation of deposit with escrow must be approved before continuation 
 
