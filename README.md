@@ -10,8 +10,11 @@ The long term goal is to integrate a borrowing and lending protocol, to divert t
 Users shall be able to own, with the option for owner priviledges such as subleasing, co ownership
 
 2) The transfer of ownership from .home to user 
+Additional features:
 
 To sublease confirmation of deposit with escrow must be approved before continuation 
 
-Subleaser would be granted a derarative NFT; stating terms of time and payment required 
+Subleaser would be granted a derarative NFT; stating terms of time and payment required
+
+Crypto collateral for NFT home payments in full or on termed loan. Collaterization is eqivelent to 5% of total amount.
 
