@@ -1,0 +1,12 @@
+  results += '\n\n***Sell Offers***\n'  
+  let nftSellOffers
+  try {
+    nftSellOffers = await client.request({
+      method: "nft_sell_offers",
+      nft_id: brokerTokenIdField.value  
+    })
+  } catch (err) {
+    nftSellOffers = 'No sell offers.'
+  }
+  results += JSON.stringify(nftSellOffers,null,2)
+  document.getElementById('brokerResultField').value = results
