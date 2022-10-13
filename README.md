@@ -14,7 +14,7 @@ Additional features:
 
 To sublease confirmation of deposit with escrow must be approved before continuation 
 
-Subleaser would be granted a derarative NFT; stating terms of time and payment required
+Subleaser would be granted a derarative NFT; stating terms of time and payment required facillitated by escrow deposit 
 
-Crypto collateral for NFT home payments in full or on termed loan. Collaterization is eqivelent to 5% of total amount.
+Crypto collateral for NFT home payments in full or on termed loan. Collaterization is eqivelent to 5% of total amount. (also facilitated by deposit escrow subject to change if secondary lending/collateral protocol was created. 
 
